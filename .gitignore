@@ -1,0 +1,4 @@
+venv_3.12/
+path/
+.env
+.env*.local
